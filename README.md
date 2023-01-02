@@ -1,2 +1,2 @@
-# secret_santa
-Random pairing from the set of participants to play the game "Secret Santa"
+# Secret_Santa
+Random pairing of participants for the game "Secret Santa"
